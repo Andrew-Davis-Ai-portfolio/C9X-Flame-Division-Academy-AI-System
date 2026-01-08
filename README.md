@@ -6,6 +6,10 @@
 
 ---
 
+“C9X is not inspired by, affiliated with, or derived from any fictional AI systems or media properties.”
+
+---
+
 ## Overview
 
 C9X is a proprietary AI interface and governance-oriented system under staged development by **Flame Division Academy**.
